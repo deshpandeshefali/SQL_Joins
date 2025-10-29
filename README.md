@@ -8,7 +8,7 @@ The goal is to learn to combine data from multiple tables.
 
 ## Contents
 
-- `task5_sql_mysql.sql` — MySQL script (create schema, sample data, join examples)
+- `task5.sql` — MySQL script (create schema, sample data, join examples)
 - `README.md` — this file documenting the approach.
 
 ### Tools Used
